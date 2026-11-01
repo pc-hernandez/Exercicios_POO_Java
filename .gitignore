@@ -1,0 +1,35 @@
+# Java - arquivos compilados
+*.class
+
+# Diretórios de compilação
+out/
+bin/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Gradle
+.gradle/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e informações sensíveis
+.env
+.env.*
+!.env.example
